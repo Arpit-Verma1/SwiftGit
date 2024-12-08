@@ -21,7 +21,7 @@ struct ContentView: View {
             List {
                 ForEach(items) { item in
                     NavigationLink {
-                       Text("this is 2nd commit")
+                       Text("this is 1st commit after stash")
                     } label: {
 //                        Text(item.timestamp!, formatter: itemFormatter)
                     }
