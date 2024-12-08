@@ -28,7 +28,7 @@ struct ContentView: View {
                 }
                 .onDelete(perform: deleteItems)
             }
-            .navigationTitle("TO DO List Final")
+            .navigationTitle("hello")
 
 //            .toolbar {
 //#if os(iOS)
